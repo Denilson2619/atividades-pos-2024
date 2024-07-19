@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio>
+    <prato id="P01">
+            <nome>Pão com Ovo</nome>
+            <Descricao>Pão francês com ovo frito mexido.</Descricao>
+            <ingredientes>
+                <ingrediente> Pão </ingrediente>
+                <ingrediente> ovo </ingrediente>
+                <preço>3,50R$</preço>
+                <calorias>281kcal</calorias>
+                <tempoPreparo>2 min</tempoPreparo>
+            </ingredientes>
+    </prato>
+
+    <prato id="P02">
+        <nome>Cuscuz com Guisado</nome>
+        <Descricao>Cuscuz com carne de guisado cozinhada ao molho</Descricao>
+        <ingredientes>
+            <ingrediente>  Cuscuz </ingrediente>
+            <ingrediente>Leite </ingrediente>
+            <ingrediente> Carne de guisado </ingrediente>
+            <preço>12,00R$</preço>
+                <calorias>292kcal</calorias>
+        <tempoPreparo>7 min</tempoPreparo>
+        </ingredientes>
+    </prato>
+
+    <prato id="P03">
+        <nome>Tapioca Recheada</nome>
+        <Descricao>Tapioca feita na hora, recheada com carne de sol assada</Descricao>
+        <ingredientes>
+            <ingrediente> Goma de tapioca </ingrediente>
+            <ingrediente> Carne de sol </ingrediente>
+            <preço>8,00R$</preço>
+            <calorias>284kcal</calorias>
+            <tempoPreparo>15 min</tempoPreparo>
+        </ingredientes>
+    </prato>
+
+    <prato id="P04">
+        <nome>Cachorro Quente na Chapa</nome>
+        <Descricao>Nova inovação do mercado, um cachorro quente diferenciado!</Descricao>
+        <ingredientes>
+            <ingrediente> Pão </ingrediente>
+            <ingrediente> Salsicha </ingrediente>
+            <ingrediente> Batata palha </ingrediente>
+            <ingrediente> Queijo </ingrediente>
+            <ingrediente> Bacon </ingrediente>
+            <ingrediente> Calabresa </ingrediente>
+            <ingrediente> Molho de alho </ingrediente>
+            <preço>10,00R$</preço>
+            <calorias>341kcal</calorias>
+            <tempoPreparo>25 min</tempoPreparo>
+        </ingredientes>
+    </prato>
+
+    <prato id="P05">
+        <nome>Caldo de Cana</nome>
+        <Descricao>Saboroso caldo de cana feito na hora.</Descricao>
+        <ingredientes>
+            <ingrediente> Cana de açúcar </ingrediente>
+            <ingrediente> Gelo </ingrediente>
+            <preço>4,00R$</preço>
+            <calorias>269kcal</calorias>
+            <tempoPreparo>2 min</tempoPreparo>
+        </ingredientes>
+    </prato>
+</cardapio>

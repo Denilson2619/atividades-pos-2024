@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" codificacao="utf-8"?>
+<! DOCTYPE cardapio SYSTEM "definicoes.dtd" >
 <cardapio>
     <prato id="P01">
             <nome>Pão com Ovo</nome>
@@ -6,7 +7,7 @@
             <ingredientes>
                 <ingrediente> Pão </ingrediente>
                 <ingrediente> ovo </ingrediente>
-                <preço>3,50R$</preço>
+                <preco>3,50R$</preco>
                 <calorias>281kcal</calorias>
                 <tempoPreparo>2 min</tempoPreparo>
             </ingredientes>
@@ -19,7 +20,7 @@
             <ingrediente>  Cuscuz </ingrediente>
             <ingrediente>Leite </ingrediente>
             <ingrediente> Carne de guisado </ingrediente>
-            <preço>12,00R$</preço>
+            <preco>12,00R$</preco>
                 <calorias>292kcal</calorias>
         <tempoPreparo>7 min</tempoPreparo>
         </ingredientes>
@@ -31,7 +32,7 @@
         <ingredientes>
             <ingrediente> Goma de tapioca </ingrediente>
             <ingrediente> Carne de sol </ingrediente>
-            <preço>8,00R$</preço>
+            <preco>8,00R$</preco>
             <calorias>284kcal</calorias>
             <tempoPreparo>15 min</tempoPreparo>
         </ingredientes>
@@ -48,7 +49,7 @@
             <ingrediente> Bacon </ingrediente>
             <ingrediente> Calabresa </ingrediente>
             <ingrediente> Molho de alho </ingrediente>
-            <preço>10,00R$</preço>
+            <preco>10,00R$</preco>
             <calorias>341kcal</calorias>
             <tempoPreparo>25 min</tempoPreparo>
         </ingredientes>
@@ -60,7 +61,7 @@
         <ingredientes>
             <ingrediente> Cana de açúcar </ingrediente>
             <ingrediente> Gelo </ingrediente>
-            <preço>4,00R$</preço>
+            <preco>4,00R$</preco>
             <calorias>269kcal</calorias>
             <tempoPreparo>2 min</tempoPreparo>
         </ingredientes>

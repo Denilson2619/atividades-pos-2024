@@ -1,0 +1,113 @@
+
+<!DOCTYPE imobiliaria >
+
+<imobiliaria>
+    <imovel>
+        <descricao>kitnet show de bola</descricao>
+        <proprietario>
+            <nome>Michael</nome>
+            <email>quandotafeioesquece@gmail</email>
+            <telefone>84996290981</telefone>
+            <telefone>84998777134</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Aveloz</rua>
+            <bairro>Maconhão</bairro>
+            <cidade>Lajes do cabugi</cidade>
+            <numero>157</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>50mQuadrados</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>150</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Mansão de luxo para pobres</descricao>
+        <proprietario>
+            <nome>Batman</nome>
+            <email>eusouobatman@gmail</email>
+            <telefone>84999091162</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Morcegão</rua>
+            <bairro>Xô coringa</bairro>
+            <cidade>Gotan City</cidade>
+            <numero>98</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>2000mQuadrados</tamanho>
+            <numQuartos>8</numQuartos>
+            <numBanheiros>5</numBanheiros>
+        </caracteristicas>
+        <valor>1000</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Casa para casal</descricao>
+        <proprietario>
+            <nome>Chico moedas</nome>
+            <telefone>84999887766</telefone>
+            <telefone>84998765432</telefone>
+
+        </proprietario>
+        <endereco>
+            <rua>Só fiéis</rua>
+            <bairro>Terror do Cama Sutra</bairro>
+            <cidade>Natal</cidade>
+            <numero>39</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>300mQuadrados</tamanho>
+            <numQuartos>4</numQuartos>
+            <numBanheiros>3</numBanheiros>
+        </caracteristicas>
+        <valor>1200</valor>
+    </imovel>
+
+    <imovel>
+        <descricao>Um imovel bem novo</descricao>
+        <proprietario>
+            <nome>Tatá</nome>
+            <email>otatatemmoto@gmail</email>
+            <telefone>84999807656</telefone>
+            <telefone>85998746532</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Vô nada</rua>
+            <bairro>Tem moto</bairro>
+            <cidade>Honda City</cidade>
+            <numero>244</numero>
+        </endereco>
+        <caracteristicas>
+            <tamanho>105mQuadrados</tamanho>
+            <numQuartos>2</numQuartos>
+            <numBanheiros>2</numBanheiros>
+        </caracteristicas>
+        <valor>2000</valor>
+
+    </imovel>
+
+    <imovel>
+        <descricao>Imovel pequeno para usar sozinho</descricao>
+        <proprietario>
+            <nome>Messi</nome>
+            <email>copa2022@gmail</email>
+            <telefone>8599987065</telefone>
+        </proprietario>
+        <endereco>
+            <rua>Ancara Messi</rua>
+            <bairro>Que Mira bobo</bairro>
+            <cidade>Mickey Mouse</cidade>
+        </endereco>
+        <caracteristicas>
+            <tamanho>50mQuadrados</tamanho>
+            <numQuartos>3</numQuartos>
+            <numBanheiros>1</numBanheiros>
+        </caracteristicas>
+        <valor>2022</valor>
+
+    </imovel>
+</imobiliaria>

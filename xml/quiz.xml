@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE quiz SYSTEM "quiz.dtd">
+
+<quiz versao="3">
+    <disciplina>Merenda</disciplina>
+    <professor>
+        <nome>Renan</nome>
+        <matrícula>20211181110036</matrícula>
+    </professor>
+    <turma>InfoWeb 4v</turma>
+    <data>19 de Setembro</data>
+    <questões>
+        <questão>
+            <enunciado>Qual o melhor lanche?</enunciado>
+            <pontuação>10</pontuação>
+            <alternativas>
+                <alternativa correta="nao">D</alternativa>
+                <alternativa correta="sim">A</alternativa>
+                <alternativa correta="nao">C</alternativa>
+                <alternativa correta="sim">B</alternativa>
+            </alternativas>
+        </questão>
+
+        <questão>
+            <enunciado>Quem veio primeiro?</enunciado>
+            <pontuação>100</pontuação>
+            <alternativas>
+                <alternativa correta="nao">D</alternativa>
+                <alternativa correta="nao">A</alternativa>
+                <alternativa correta="sim">C</alternativa>
+                <alternativa correta="sim">B</alternativa>
+            </alternativas>
+        </questão>
+
+        <questão>
+            <enunciado>Zé Ramalho ou Zezo?</enunciado>
+            <pontuação>20</pontuação>
+            <alternativas>
+                <alternativa correta="nao">D</alternativa>
+                <alternativa correta="sim">C</alternativa>
+                <alternativa correta="sim">B</alternativa>
+                <alternativa correta="nao">A</alternativa>
+            </alternativas>
+        </questão>
+
+        <questão>
+            <enunciado>Renan eu te amo</enunciado>
+            <pontuação>1000</pontuação>
+            <alternativas>
+                <alternativa correta="sim">A</alternativa>
+                <alternativa correta="sim">B</alternativa>
+                <alternativa correta="sim">D</alternativa>
+                <alternativa correta="sim">C</alternativa>
+            </alternativas>
+        </questão>
+
+        <questão>
+            <enunciado>Hoje eu levantei da cama</enunciado>
+            <pontuação>50</pontuação>
+            <alternativas>
+                <alternativa correta="nao">C</alternativa>
+                <alternativa correta="nao">B</alternativa>
+                <alternativa correta="sim">A</alternativa>
+                <alternativa correta="nao">D</alternativa>
+            </alternativas>
+        </questão>
+    </questões>

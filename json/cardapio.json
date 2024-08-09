@@ -1,0 +1,85 @@
+
+{
+    "cardapio": {
+      "prato": [
+        {
+          "id": "1",
+          "nome": "Pão com Ovo",
+          "descricao": "Pão francês com ovo frito mexido.",
+          "ingredientes": {
+            "ingrediente": [
+              "Pão",
+              "ovo"
+            ]
+          },
+          "preco": "3,50R$",
+          "calorias": "281kcal",
+          "tempoPreparo": "2 min"
+        },
+        {
+          "id": "2",
+          "nome": "Cuscuz com Guisado",
+          "descricao": "Cuscuz com carne de guisado cozinhada ao molho",
+          "ingredientes": {
+            "ingrediente": [
+              "Cuscuz",
+              "Leite",
+              "Carne de guisado"
+            ]
+          },
+          "preco": "12,00R$",
+          "calorias": "292kcal",
+          "tempoPreparo": "7 min"
+        },
+        {
+            "id": "3",
+            "nome": "Tapioca Recheada",
+            "descricao": "Tapioca feita na hora, recheada com carne de sol assada",
+            "ingredientes": {
+              "ingrediente": [
+                "Goma de tapioca",
+                "Carne de sol"
+              ]
+            },
+            "preco": "8,00R$",
+            "calorias": "284kcal",
+            "tempoPreparo": "15 min"
+          },
+          {
+            "id": "4",
+            "nome": "Cachorro Quente na Chapa",
+            "descricao": "Nova inovação do mercado, um cachorro quente diferenciado!",
+            "ingredientes": {
+              "ingrediente": [
+                "Pão",
+                "Salsicha",
+                "Batata palha",
+                "Queijo",
+                "Bacon",
+                "Calabresa",
+                "Molho de alho"
+              ]
+            },
+            "preco": "10,00R$",
+            "calorias": "341kcal",
+            "tempoPreparo": "25 min"
+          },
+          {
+            "id": "5",
+            "nome": "Caldo de Cana",
+            "descricao": "Saboroso caldo de cana feito na hora.",
+            "ingredientes": {
+              "ingrediente": [
+                "Cana de açúcar",
+                "Gelo"
+              ]
+            },
+            "preco": "4,00R$",
+            "calorias": "269kcal",
+            "tempoPreparo": "2 min"
+          }
+          
+      ]
+    }
+  }
+  

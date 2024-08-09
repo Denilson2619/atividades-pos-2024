@@ -1,0 +1,125 @@
+{
+    "quiz": {
+      "versao": "3",
+      "disciplina": "Merenda",
+      "professor": {
+        "nome": "Renan",
+        "matricula": "20211181110036"
+      },
+      "turma": "InfoWeb 4v",
+      "data": "19 de Setembro",
+      "questoes": [
+        {
+          "enunciado": "Qual o melhor lanche?",
+          "pontuacao": 10,
+          "alternativas": [
+            {
+              "resposta": "D",
+              "correta": false
+            },
+            {
+              "resposta": "A",
+              "correta": true
+            },
+            {
+              "resposta": "C",
+              "correta": false
+            },
+            {
+              "resposta": "B",
+              "correta": true
+            }
+          ]
+        },
+        {
+          "enunciado": "Quem veio primeiro?",
+          "pontuacao": 100,
+          "alternativas": [
+            {
+              "resposta": "D",
+              "correta": false
+            },
+            {
+              "resposta": "A",
+              "correta": false
+            },
+            {
+              "resposta": "C",
+              "correta": true
+            },
+            {
+              "resposta": "B",
+              "correta": true
+            }
+          ]
+        },
+        {
+          "enunciado": "Zé Ramalho ou Zezo?",
+          "pontuacao": 20,
+          "alternativas": [
+            {
+              "resposta": "D",
+              "correta": false
+            },
+            {
+              "resposta": "C",
+              "correta": true
+            },
+            {
+              "resposta": "B",
+              "correta": true
+            },
+            {
+              "resposta": "A",
+              "correta": false
+            }
+          ]
+        },
+        {
+          "enunciado": "Renan eu te amo",
+          "pontuacao": 1000,
+          "alternativas": [
+            {
+              "resposta": "A",
+              "correta": true
+            },
+            {
+              "resposta": "B",
+              "correta": true
+            },
+            {
+              "resposta": "D",
+              "correta": true
+            },
+            {
+              "resposta": "C",
+              "correta": true
+            }
+          ]
+        },
+        {
+          "enunciado": "Hoje eu levantei da cama",
+          "pontuacao": 50,
+          "alternativas": [
+            {
+              "resposta": "C",
+              "correta": false
+            },
+            {
+              "resposta": "B",
+              "correta": false
+            },
+            {
+              "resposta": "A",
+              "correta": true
+            },
+            {
+              "resposta": "D",
+              "correta": false
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

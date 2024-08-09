@@ -1,0 +1,107 @@
+{
+    "imobiliaria": {
+      "imovel": [
+        {
+          "descricao": "kitnet show de bola",
+          "proprietario": {
+            "nome": "Michael",
+            "email": "quandotafeioesquece@gmail",
+            "telefone": ["84996290981", "84998777134"]
+          },
+          "endereco": {
+            "rua": "Aveloz",
+            "bairro": "Maconhão",
+            "cidade": "Lajes do cabugi",
+            "numero": "157"
+          },
+          "caracteristicas": {
+            "tamanho": "50mQuadrados",
+            "numQuartos": 2,
+            "numBanheiros": 1
+          },
+          "valor": "150"
+        },
+        {
+          "descricao": "Mansão de luxo para pobres",
+          "proprietario": {
+            "nome": "Batman",
+            "email": "eusouobatman@gmail",
+            "telefone": ["84999091162"]
+          },
+          "endereco": {
+            "rua": "Morcegão",
+            "bairro": "Xô coringa",
+            "cidade": "Gotan City",
+            "numero": "98"
+          },
+          "caracteristicas": {
+            "tamanho": "2000mQuadrados",
+            "numQuartos": 8,
+            "numBanheiros": 5
+          },
+          "valor": "1000"
+        },
+        {
+          "descricao": "Casa para casal",
+          "proprietario": {
+            "nome": "Chico moedas",
+            "email": null,
+            "telefone": ["84999887766", "84998765432"]
+          },
+          "endereco": {
+            "rua": "Só fiéis",
+            "bairro": "Terror do Cama Sutra",
+            "cidade": "Natal",
+            "numero": "39"
+          },
+          "caracteristicas": {
+            "tamanho": "300mQuadrados",
+            "numQuartos": 4,
+            "numBanheiros": 3
+          },
+          "valor": "1200"
+        },
+        {
+          "descricao": "Um imovel bem novo",
+          "proprietario": {
+            "nome": "Tatá",
+            "email": "otatatemmoto@gmail",
+            "telefone": ["84999807656", "85998746532"]
+          },
+          "endereco": {
+            "rua": "Vô nada",
+            "bairro": "Tem moto",
+            "cidade": "Honda City",
+            "numero": "244"
+          },
+          "caracteristicas": {
+            "tamanho": "105mQuadrados",
+            "numQuartos": 2,
+            "numBanheiros": 2
+          },
+          "valor": "2000"
+        },
+        {
+          "descricao": "Imovel pequeno para usar sozinho",
+          "proprietario": {
+            "nome": "Messi",
+            "email": "copa2022@gmail",
+            "telefone": ["8599987065"]
+          },
+          "endereco": {
+            "rua": "Ancara Messi",
+            "bairro": "Que Mira bobo",
+            "cidade": "Mickey Mouse",
+            "numero": null
+          },
+          "caracteristicas": {
+            "tamanho": "50mQuadrados",
+            "numQuartos": 3,
+            "numBanheiros": 1
+          },
+          "valor": "2022"
+        }
+      ]
+    }
+  }
+  

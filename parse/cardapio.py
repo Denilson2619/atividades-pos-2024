@@ -1,15 +1,12 @@
 from xml.dom.minidom import parse
 
-# Use um caminho absoluto ou ajuste conforme necessário
-file_path = "parse/cardapio.xml"
+# Caminho para o arquivo de teste
+file_path = "C:/Users/patom/OneDrive/Desktop/Repositório/atividades-pos-2024/parse/cardapio.xml"
 
 try:
     dom = parse(file_path)
-except FileNotFoundError:
-    print(f"Arquivo não encontrado: {file_path}")
-    exit()
-except PermissionError:
-    print(f"Permissão negada para acessar o arquivo: {file_path}")
+except Exception as e:
+    print(f"Erro ao carregar o XML: {e}")
     exit()
 
 cardapio = dom.documentElement
@@ -21,7 +18,7 @@ for prato in pratos_cardapio:
     print(f"Prato {prato_id_cardapio}: {nome}")
 
 try:
-    prato_id = int(input("DIGITE O ID DO PRATO/CARDAPIO: "))
+    prato_id = int(input("DIGITE O ID DO PRATO/CARDAPIO: ")) - 1  # Ajuste para índice zero baseado
     prato = pratos_cardapio[prato_id]
 except (ValueError, IndexError):
     print("ID do prato inválido.")

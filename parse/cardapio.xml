@@ -1,37 +1,37 @@
-<?xml version="1.0" codificacao="utf-8"?>
-<! DOCTYPE cardapio SYSTEM "definicoes.dtd" >
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cardapio SYSTEM "definicoes.dtd">
 <cardapio>
     <prato id="1">
-            <nome>Pão com Ovo</nome>
-            <Descricao>Pão francês com ovo frito mexido.</Descricao>
-            <ingredientes>
-                <ingrediente> Pão </ingrediente>
-                <ingrediente> ovo </ingrediente>
-                <preco>3,50R$</preco>
-                <calorias>281kcal</calorias>
-                <tempoPreparo>2 min</tempoPreparo>
-            </ingredientes>
+        <nome>Pão com Ovo</nome>
+        <descricao>Pão francês com ovo frito mexido.</descricao>
+        <ingredientes>
+            <ingrediente>Pão</ingrediente>
+            <ingrediente>ovo</ingrediente>
+            <preco>3,50R$</preco>
+            <calorias>281kcal</calorias>
+            <tempoPreparo>2 min</tempoPreparo>
+        </ingredientes>
     </prato>
 
     <prato id="2">
         <nome>Cuscuz com Guisado</nome>
-        <Descricao>Cuscuz com carne de guisado cozinhada ao molho</Descricao>
+        <descricao>Cuscuz com carne de guisado cozinhada ao molho</descricao>
         <ingredientes>
-            <ingrediente>  Cuscuz </ingrediente>
-            <ingrediente>Leite </ingrediente>
-            <ingrediente> Carne de guisado </ingrediente>
+            <ingrediente>Cuscuz</ingrediente>
+            <ingrediente>Leite</ingrediente>
+            <ingrediente>Carne de guisado</ingrediente>
             <preco>12,00R$</preco>
-                <calorias>292kcal</calorias>
-        <tempoPreparo>7 min</tempoPreparo>
+            <calorias>292kcal</calorias>
+            <tempoPreparo>7 min</tempoPreparo>
         </ingredientes>
     </prato>
 
     <prato id="3">
         <nome>Tapioca Recheada</nome>
-        <Descricao>Tapioca feita na hora, recheada com carne de sol assada</Descricao>
+        <descricao>Tapioca feita na hora, recheada com carne de sol assada</descricao>
         <ingredientes>
-            <ingrediente> Goma de tapioca </ingrediente>
-            <ingrediente> Carne de sol </ingrediente>
+            <ingrediente>Goma de tapioca</ingrediente>
+            <ingrediente>Carne de sol</ingrediente>
             <preco>8,00R$</preco>
             <calorias>284kcal</calorias>
             <tempoPreparo>15 min</tempoPreparo>
@@ -40,15 +40,15 @@
 
     <prato id="4">
         <nome>Cachorro Quente na Chapa</nome>
-        <Descricao>Nova inovação do mercado, um cachorro quente diferenciado!</Descricao>
+        <descricao>Nova inovação do mercado, um cachorro quente diferenciado!</descricao>
         <ingredientes>
-            <ingrediente> Pão </ingrediente>
-            <ingrediente> Salsicha </ingrediente>
-            <ingrediente> Batata palha </ingrediente>
-            <ingrediente> Queijo </ingrediente>
-            <ingrediente> Bacon </ingrediente>
-            <ingrediente> Calabresa </ingrediente>
-            <ingrediente> Molho de alho </ingrediente>
+            <ingrediente>Pão</ingrediente>
+            <ingrediente>Salsicha</ingrediente>
+            <ingrediente>Batata palha</ingrediente>
+            <ingrediente>Queijo</ingrediente>
+            <ingrediente>Bacon</ingrediente>
+            <ingrediente>Calabresa</ingrediente>
+            <ingrediente>Molho de alho</ingrediente>
             <preco>10,00R$</preco>
             <calorias>341kcal</calorias>
             <tempoPreparo>25 min</tempoPreparo>
@@ -57,10 +57,10 @@
 
     <prato id="5">
         <nome>Caldo de Cana</nome>
-        <Descricao>Saboroso caldo de cana feito na hora.</Descricao>
+        <descricao>Saboroso caldo de cana feito na hora.</descricao>
         <ingredientes>
-            <ingrediente> Cana de açúcar </ingrediente>
-            <ingrediente> Gelo </ingrediente>
+            <ingrediente>Cana de açúcar</ingrediente>
+            <ingrediente>Gelo</ingrediente>
             <preco>4,00R$</preco>
             <calorias>269kcal</calorias>
             <tempoPreparo>2 min</tempoPreparo>

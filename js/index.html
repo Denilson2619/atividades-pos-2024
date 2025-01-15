@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Motos - Honda</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container mt-5">
+        <h1>Catálogo de Motos - Honda</h1>
+
+        <div class="d-flex justify-content-center">
+            <button id="load-motos-btn" class="btn-custom">Carregar Motos da Honda</button>
+        </div>
+
+        <div class="moto-container" id="moto-container"></div>
+
+        <div class="pagination-container">
+            <button id="prev-btn" class="pagination-btn" onclick="changePage(-1)" disabled>Anterior</button>
+            <button id="next-btn" class="pagination-btn" onclick="changePage(1)" disabled>Próximo</button>
+        </div>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>

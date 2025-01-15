@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catálogo de Motos</title>
+  <link rel="stylesheet" href="/src/style.css"> <!-- Ajuste para carregar corretamente -->
+</head>
+
+<body>
+  <div class="container">
+    <h1>Catálogo de Motos</h1>
+    <button id="load-motos-btn" class="btn-custom">Carregar Motos</button>
+    <div id="moto-container" class="moto-container"></div>
+
+    <div class="pagination-container">
+      <button id="prev-btn" class="pagination-btn" onclick="changePage(-1)">Anterior</button>
+      <button id="next-btn" class="pagination-btn" onclick="changePage(1)">Próximo</button>
+    </div>
+  </div>
+  <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>
